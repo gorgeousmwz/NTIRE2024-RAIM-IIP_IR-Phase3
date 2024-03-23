@@ -21,7 +21,20 @@ inputs/
 
 ### Pretrained Model
 
-The pretrained model can be downloaded from [Google Drive](https://drive.google.com/drive/folders/1PXUcAulPg7Q5r9-0nndeYPqTmMryaXRa?usp=drive_link), and put it under folder `pretrained`. As shown in the following picture:
+The pretrained model can be downloaded from follow links, and put it under folder `pretrained`. 
+
+1.[kernel_model.pth](https://drive.google.com/file/d/1ehMFYBgtgLQ_YUsauCy8BmXdWkoFwm4x/view?usp=drive_link)
+
+2.[restore_model.pth](https://drive.google.com/file/d/1ugfmXeKNG-FTQNk4CLx1xom45A4DW9tc/view?usp=drive_link)
+
+3.[hat_model.pth](https://drive.google.com/file/d/11XEo91C8_bCGd5VC87znSOHtHlruLJPp/view?usp=drive_link)
+
+4.[open_clip_pytorch_model.bin](https://huggingface.co/laion/CLIP-ViT-H-14-laion2B-s32B-b79K/resolve/main/open_clip_pytorch_model.bin?download=true)
+
+5.[stablesr_turbo.ckpt](https://huggingface.co/Iceclear/StableSR/resolve/main/stablesr_turbo.ckpt?download=true)
+
+6.[vqgan_cfw_00011.ckpt](https://huggingface.co/Iceclear/StableSR/resolve/main/vqgan_cfw_00011.ckpt?download=true)
+
 ```
 pretrained/
     └── hat_model.pth
