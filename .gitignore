@@ -1,0 +1,12 @@
+inputs/*
+!inputs/*.txt
+outputs/*
+!outputs/*.txt
+pretrained/*
+!pretrained/*.txt
+
+HAT/.eggs
+HAT/hat.egg-info
+HAT/results/*
+
+Phase2/outputs/*
