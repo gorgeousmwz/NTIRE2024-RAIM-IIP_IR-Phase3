@@ -1,6 +1,7 @@
 # NTIRE2024-RAIM-IIP_IR-Phase3
-<<<<<<< HEAD
+
 The code repository for the phase three of Restore Any Image Model (RAIM) in the Wild: An NTIRE Challenge in Conjunction with CVPR 2024
+
 =======
 
 This is the code repository of Restore Any Image Model (RAIM) in the Wild: An NTIRE Challenge in Conjunction with CVPR 2024.
@@ -94,4 +95,4 @@ Above figure illustrates the pipeline of phase3. We utilize the pre-trained mode
 
 ## Contact
 If you have any questions, please feel free to reach me out at `mawenzhuogorgeous@gmail.com`.
->>>>>>> ce2f92c (main)
+
