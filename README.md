@@ -96,7 +96,7 @@ We have introduced an integrated framework for image restoration. As shown in Fi
 
 The second component is the restoration module. It is also designed using a U-Net architecture consisting of 3 layers. Each layer is connected by a SPADE block. The feature map before Downsample will be processed by the SPADE block, and then combined with the feature map after Upsample at the same layer. Additionally, the blur kernel estimated by BKE will also be embedded into the SPADE block at the middle of U-Net. 
 
-## General method description of phase 2. 
+## General method description of phase 3. 
 
 ![phase3](assests/phase3.png)
 
